@@ -107,3 +107,29 @@ The dataset was compiled from publicly available company financial information a
 - Revenue values standardized in USD billions
 ```
 
+## Screenshots
+
+### Page 1 — Global Market Revenue Race
+<img width="1797" height="991" alt="P2 page-1-global-market-revenue-race" src="https://github.com/user-attachments/assets/e05c30aa-4229-44cd-b361-23c238951887" />
+
+### Page 2 — Market Momentum & Growth Analysis
+<img width="1541" height="840" alt="P2 page-2-market-momentum-growth-analysis" src="https://github.com/user-attachments/assets/c6f2e34d-6471-4150-aa1c-2b0b5d30442c" />
+
+
+## Why This Project Matters
+
+This project was designed to stand out in a competitive analytics job market by demonstrating three things at once:
+
+1. the ability to build visually engaging Power BI experiences,
+2. the ability to validate and explain metrics correctly,
+3. and the ability to frame dashboards as business stories rather than static reports.
+
+## Author
+
+**Abhinay Badangi**  
+Senior Data Analyst | Power BI | SQL | Business Intelligence
+
+- Portfolio: https://abhinaybadangi.github.io/portfolio/
+- LinkedIn: https://www.linkedin.com/in/abhinaybadangi
+
+This project is intentionally positioned as a portfolio asset for analytics and BI roles, showcasing both technical execution and business-facing storytelling.
