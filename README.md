@@ -18,6 +18,8 @@ Using a curated multi-industry dataset across Tech, E-commerce, Automotive, EV, 
 
 The result is a portfolio project designed to demonstrate not just dashboarding, but analytical storytelling, DAX capability, and business interpretation.
 
+🔗 Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiZDQzYWY0YzItMzVlZi00ZjFjLTlhMjMtYThkOTk4ZmE4YmNmIiwidCI6IjY0YTk1YzRkLTk0YmQtNGRmMy1hNmIyLTFkZDE3NWEyYWY2YSJ9
+
 ## Business Objective
 
 The objective of this project is to help decision-makers and analysts understand:
