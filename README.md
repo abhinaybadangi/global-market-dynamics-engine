@@ -1,6 +1,7 @@
 # Global Market Dynamics Engine
 
-<img width="800" height="450" alt="demo" src="https://github.com/user-attachments/assets/20cd8be3-63e5-4218-b7b6-87711ec24181" />
+<img width="800" height="450" alt="demo" src="https://github.com/user-attachments/assets/6b647cb3-55c0-444f-97ab-3a4c63b9cdb4" />
+
 
 An interactive Power BI storytelling project that tracks how global market leaders evolve over time, identifies the fastest-growing companies, and explains the business forces behind shifting market momentum.
 
